@@ -2,15 +2,13 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using Shared.Utils;
-using Solonity.Editor;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.Serialization;
 using Object = UnityEngine.Object;
 
-namespace ExternalAssetsEdited.FavoriteAssets.Editor
+namespace UnityUtilsEditor
 {
     public class FavoriteAssets : EditorWindow
     {

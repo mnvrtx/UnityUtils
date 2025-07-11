@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Solonity.Editor.UtilsModule.Usages
+namespace UnityUtilsEditor
 {
     public class UsageData
     {

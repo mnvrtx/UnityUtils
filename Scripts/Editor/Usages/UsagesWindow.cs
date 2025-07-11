@@ -1,11 +1,10 @@
 using System.Collections.Generic;
 using System.Linq;
-using Shared.Utils;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Solonity.Editor.UtilsModule.Usages
+namespace UnityUtilsEditor
 {
     public class UsagesWindow : EditorWindow
     {
