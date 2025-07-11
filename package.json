@@ -1,0 +1,12 @@
+{
+    "name": "com.mnvrtx.unity_utils",
+    "displayName": "UnityUtils",
+    "author": { "name": "MnVrtx" },
+    "version": "0.0.1",
+    "unity": "2018.4",
+    "description": "Useful unity utils.",
+    "keywords": [ ],
+    "license": "MIT",
+    "category": "utils",
+    "dependencies": {}
+}
